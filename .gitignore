@@ -1,0 +1,17 @@
+/logs
+bardIP.csv
+bardOP.csv
+gptIP.csv
+gptOP.csv
+
+lstm.png
+lstm_cm.png
+gpt_cm.png
+bard_cm.png
+CNN+LSTM_cm.png
+CNN+BiLSTM_cm.png
+BiLSTM_cm.png
+
+
+gpt_metrics.ipynb
+bard_metrics.ipynb
